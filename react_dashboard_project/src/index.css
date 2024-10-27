@@ -9,6 +9,12 @@ body,
   width: 100%;
   font-family: 'Source Sans Pro', sans-serif;
 }
+.html {
+  overflow-y: hidden;
+}
+.content {
+  overflow-y: auto;
+}
 .app{
   display: flex;
   position: relative;
